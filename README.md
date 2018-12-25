@@ -1,4 +1,8 @@
 # vue-typescript-webpack-demo
-1. npm i
-2. npm run build
-3. open up index.html file in a browser
+
+1. Install and build
+    ```bash
+    npm i
+    npm run build
+    ```
+1. open up index.html file in a browser
